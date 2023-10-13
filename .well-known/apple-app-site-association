@@ -7,6 +7,12 @@
         "paths": [
           "/sealsite/*"
         ]
+      },
+      {
+        "appID": "4WWBLKBF4F.net-dev.zcoo.sealNote",
+        "paths": [
+          "/sealsite/*"
+        ]
       }
     ]
   }
